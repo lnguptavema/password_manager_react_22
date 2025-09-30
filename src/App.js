@@ -229,7 +229,3 @@ class App extends Component {
 }
 
 export default App
-
-// {newlist.map(eachItem => (
-//                 <Password eachItem={eachItem} length={newlist.length} />
-//               ))}
